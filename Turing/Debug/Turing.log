@@ -1,0 +1,14 @@
+﻿  Turing.cpp
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(90): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(105): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(172): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\мой дом\source\repos\turing\turing\turing.cpp(178): warning C4018: <: несоответствие типов со знаком и без знака
+  Turing.vcxproj -> C:\Users\Мой дом\source\repos\Turing\Debug\Turing.exe
